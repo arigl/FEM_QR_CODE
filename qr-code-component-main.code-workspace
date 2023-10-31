@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Documents/Development/Scrimba Courses/Module 3 - JS"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "qr-code-component-main"
+  }
+}
